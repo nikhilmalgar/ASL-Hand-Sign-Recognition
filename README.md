@@ -92,6 +92,3 @@ The app integrates:
 
 This project is licensed under the MIT License: MIT
 
----
-
-Do you also want me to prepare the **`requirements.txt`** file so that your README instructions will run without dependency issues?
